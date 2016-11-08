@@ -1,6 +1,7 @@
 'use strict';
 
 import Polymer from 'polymer';
+import ChildNode from 'child-node';
 
 Polymer({
   is: "hello-world",
