@@ -10,7 +10,7 @@ Polymer({
         }
     },
     ready: function () {
-        this.addEventLisener('parentSaysHello', this.greetParent);
+        this.addEventListener('parentSaysHello', this.greetParent);
     },
     greetParent: function () {
         //
