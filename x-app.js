@@ -1,7 +1,7 @@
 'use strict';
 
 import Polymer from 'polymer';
-import HelloWorld from 'hello-world';
+import HelloPolymer from 'hello-polymer';
 
 var myElement = Polymer({
   is: 'x-app',
